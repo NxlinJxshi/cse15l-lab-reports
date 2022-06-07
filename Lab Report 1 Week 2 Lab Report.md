@@ -2,7 +2,7 @@
 
 ## Installing VScode
 
-1) First Instal [Visual Studio Code](https://code.visualstudio.com/). Setting this up is easy as its a streamlined process and all instructions are provided while setting up.
+1) First install [Visual Studio Code](https://code.visualstudio.com/). Setting this up is easy as its a straightforward process and all instructions are provided while setting up.
 
 ![VSCode](https://user-images.githubusercontent.com/97692709/149589685-3cb3fc3c-7a62-458f-9253-8060420b9aa9.png)
 
